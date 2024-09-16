@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Release (x64)" ENABLED="true" GENERATION_DIR="builds/release-build-x64" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio (x64)" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot;" />
+      <configuration PROFILE_NAME="Release (x86)" ENABLED="true" GENERATION_DIR="builds/release-build-x86" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio (x86)" />
+      <configuration PROFILE_NAME="Debug (x64)" ENABLED="true" GENERATION_DIR="builds/debug-build-x64" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio (x64)" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot;" />
+      <configuration PROFILE_NAME="Debug (x86)" ENABLED="true" GENERATION_DIR="builds/debug-build-x86" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio (x86)" GENERATION_OPTIONS="-G &quot;Visual Studio 17 2022&quot;" />
+      <configuration PROFILE_NAME="Cross-Platform (Debug)" ENABLED="true" GENERATION_DIR="builds/cross-platform-debug" CONFIG_NAME="Debug" TOOLCHAIN_NAME="MinGW (Cross-platform)" />
+      <configuration PROFILE_NAME="Cross-Platform (Release)" ENABLED="true" GENERATION_DIR="builds/cross-platform-release" CONFIG_NAME="Release" TOOLCHAIN_NAME="MinGW (Cross-platform)" />
+    </configurations>
+  </component>
+</project>
